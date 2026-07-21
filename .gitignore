@@ -2,3 +2,5 @@ node_modules/
 .npm
 
 .eslintcache
+
+.DS_Store
