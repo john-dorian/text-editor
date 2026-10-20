@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/john-dorian/text-editor#readme",
   "devDependencies": {
-    "eslint": "^4.17.0"
+    "eslint": "^10.13.0"
   },
   "dependencies": {
     "@john-dorian/core": "^1.0.0"
